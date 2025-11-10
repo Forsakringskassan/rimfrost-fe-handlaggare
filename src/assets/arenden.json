@@ -1,0 +1,122 @@
+[
+  {
+    "fornamn": "Anna",
+    "efternamn": "Lindberg",
+    "personnummer": 198503122345,
+    "anstalld": true,
+    "harHund": false,
+    "arendeId": 1001
+  },
+  {
+    "fornamn": "Johan",
+    "efternamn": "Svensson",
+    "personnummer": 199207053211,
+    "anstalld": false,
+    "harHund": true,
+    "arendeId": 1002
+  },
+  {
+    "fornamn": "Maria",
+    "efternamn": "Andersson",
+    "personnummer": 197911182356,
+    "anstalld": true,
+    "harHund": false,
+    "arendeId": 1003
+  },
+  {
+    "fornamn": "Erik",
+    "efternamn": "Karlsson",
+    "personnummer": 199512284512,
+    "anstalld": false,
+    "harHund": true,
+    "arendeId": 1004
+  },
+  {
+    "fornamn": "Sara",
+    "efternamn": "Nilsson",
+    "personnummer": 198802092145,
+    "anstalld": true,
+    "harHund": false,
+    "arendeId": 1005
+  },
+  {
+    "fornamn": "Patrik",
+    "efternamn": "Johansson",
+    "personnummer": 199610153321,
+    "anstalld": false,
+    "harHund": true,
+    "arendeId": 1006
+  },
+  {
+    "fornamn": "Lina",
+    "efternamn": "Bergström",
+    "personnummer": 198404042278,
+    "anstalld": true,
+    "harHund": true,
+    "arendeId": 1007
+  },
+  {
+    "fornamn": "Oskar",
+    "efternamn": "Eriksson",
+    "personnummer": 199303241987,
+    "anstalld": true,
+    "harHund": false,
+    "arendeId": 1008
+  },
+  {
+    "fornamn": "Maja",
+    "efternamn": "Holm",
+    "personnummer": 200001012344,
+    "anstalld": false,
+    "harHund": true,
+    "arendeId": 1009
+  },
+  {
+    "fornamn": "Fredrik",
+    "efternamn": "Persson",
+    "personnummer": 198705163212,
+    "anstalld": true,
+    "harHund": false,
+    "arendeId": 1010
+  },
+  {
+    "fornamn": "Camilla",
+    "efternamn": "Olofsson",
+    "personnummer": 199910292178,
+    "anstalld": false,
+    "harHund": true,
+    "arendeId": 1011
+  },
+  {
+    "fornamn": "Andreas",
+    "efternamn": "Hansson",
+    "personnummer": 198306301999,
+    "anstalld": true,
+    "harHund": false,
+    "arendeId": 1012
+  },
+  {
+    "fornamn": "Elin",
+    "efternamn": "Björk",
+    "personnummer": 199711222233,
+    "anstalld": false,
+    "harHund": true,
+    "arendeId": 1013
+  },
+  {
+    "fornamn": "Niklas",
+    "efternamn": "Lund",
+    "personnummer": 198901182156,
+    "anstalld": true,
+    "harHund": true,
+    "arendeId": 1014
+  },
+  {
+    "fornamn": "Karin",
+    "efternamn": "Ekström",
+    "personnummer": 197503052134,
+    "anstalld": false,
+    "harHund": false,
+    "arendeId": 1015
+  }
+]
