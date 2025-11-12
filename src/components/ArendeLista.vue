@@ -15,7 +15,13 @@
 
     onMounted(async () => { items.value = await arendeLista;})
 
-    function goTo(id: number) { router.push({ name: 'item', params: { id: id.toString() }}); };
+    function goTo(item: { id: number, typ: string }) {
+        router.push({
+            name: 'item',
+            params: { id: item.id.toString()},
+            query: { title: item.typ }
+        });
+    };
 
     const activeId = computed(() => {
         return route?.params?.id ? Number(route.params.id) : null;
@@ -26,7 +32,7 @@
     <ul class="list list--unstyled">
         <li v-for="item in items" :key="item.id"
             :class="['id-list__item', { 'id-list__item--active': item.id === activeId }]"
-            @click="goTo(item.id)">
+            @click="goTo(item)">
             <strong>{{ item.typ }}</strong><br />
             <span>ID: {{ item.id }} - Status: {{ item.status }}</span>
         </li>
