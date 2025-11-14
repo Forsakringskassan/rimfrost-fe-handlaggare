@@ -5,7 +5,7 @@ const routes: RouteRecordRaw[] = [
     {
         path: '/items/:id',
         name: 'item',
-        component: ()  => import ('../components/VAH.vue'),
+        component: ()  => import ('../components/Huvudyta.vue'),
         props: true,
     },
 ]
