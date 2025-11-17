@@ -5,7 +5,7 @@
     "personnummer": 198503122345,
     "anstalld": true,
     "harHund": false,
-    "arendeId": 1001,
+    "uppgiftId": 1001,
     "uppgiftsTyp": "Kontrollera folkbokföring",
     "uppgiftsStatus": "Pågående"
   },
@@ -15,7 +15,7 @@
     "personnummer": 199207053211,
     "anstalld": false,
     "harHund": true,
-    "arendeId": 1002,
+    "uppgiftId": 1002,
     "uppgiftsTyp": "Ring arbetsgivare",
     "uppgiftsStatus": "Redo"
   },
@@ -25,7 +25,7 @@
     "personnummer": 197911182356,
     "anstalld": true,
     "harHund": false,
-    "arendeId": 1003,
+    "uppgiftId": 1003,
     "uppgiftsTyp": "Ring arbetsgivare",
     "uppgiftsStatus": "Pågående"
   },
@@ -35,7 +35,7 @@
     "personnummer": 199512284512,
     "anstalld": false,
     "harHund": true,
-    "arendeId": 1004,
+    "uppgiftId": 1004,
     "uppgiftsTyp": "Kontrollera folkbokföring",
     "uppgiftsStatus": "Redo"
   },
@@ -45,7 +45,7 @@
     "personnummer": 198802092145,
     "anstalld": true,
     "harHund": false,
-    "arendeId": 1005,
+    "uppgiftId": 1005,
     "uppgiftsTyp": "Ring arbetsgivare",
     "uppgiftsStatus": "Redo"
   },
@@ -55,7 +55,7 @@
     "personnummer": 199610153321,
     "anstalld": false,
     "harHund": true,
-    "arendeId": 1006,
+    "uppgiftId": 1006,
     "uppgiftsTyp": "Kontrollera folkbokföring",
     "uppgiftsStatus": "Pågående"
   },
@@ -65,7 +65,7 @@
     "personnummer": 198404042278,
     "anstalld": true,
     "harHund": true,
-    "arendeId": 1007,
+    "uppgiftId": 1007,
     "uppgiftsTyp": "Ring arbetsgivare",
     "uppgiftsStatus": "Pågående"
   }
