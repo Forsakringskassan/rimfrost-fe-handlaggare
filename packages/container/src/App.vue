@@ -7,7 +7,7 @@
         FPageHeader,
         FLogo,
     } from '@fkui/vue';
-import IdList from './components/IdList.vue';
+import IdList from './components/ArendeLista.vue';
     /*const route = useRoute();
     const router = useRouter();
     const currentTop = computed(() => {
@@ -47,7 +47,6 @@ import IdList from './components/IdList.vue';
       <router-view />
     </f-layout-left-panel>
 
-    <!-- Footer (optional) -->
     <template #footer>
       <div class="container-fluid" style="padding:1rem 0;text-align:center">
         <small>© Ductus</small>

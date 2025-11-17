@@ -8,6 +8,8 @@ export type Arende = {
     anstalld: boolean,
     harHund: boolean,
     arendeId: number
+    uppgiftsTyp: string,
+    uppgiftsStatus: string
 }
 
 export async function listItems(): Promise<Array<Pick<Arende,'arendeId'|'fornamn'>>> {
