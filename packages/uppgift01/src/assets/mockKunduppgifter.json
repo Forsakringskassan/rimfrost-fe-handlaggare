@@ -1,0 +1,125 @@
+[
+  {
+    "fornamn": "Anna",
+    "efternamn": "Lindberg",
+    "personnummer": 198503122345,
+    "anstalld": true,
+    "harHund": false,
+    "uppgiftId": 1001,
+    "uppgiftsTyp": "Kontrollera folkbokföring",
+    "uppgiftsStatus": "Pågående",
+    "adress": {
+      "gata": "Björkgatan",
+      "nummer": "12A",
+      "postnummer": "123 45",
+      "lägenhetsnummer": "1101",
+      "stad": "Stockholm",
+      "folkbokförd": true
+    }
+  },
+  {
+    "fornamn": "Johan",
+    "efternamn": "Svensson",
+    "personnummer": 199207053211,
+    "anstalld": false,
+    "harHund": true,
+    "uppgiftId": 1002,
+    "uppgiftsTyp": "Ring arbetsgivare",
+    "uppgiftsStatus": "Redo",
+    "arbetsgivare": {
+      "id": 3,
+      "namn": "Tech Solutions",
+      "adress": "Teknikgatan 10, 67890 Techstad",
+      "kontaktperson": "Cecilia Carlsson",
+      "telefon": "011-2233445"
+    }
+  },
+  {
+    "fornamn": "Maria",
+    "efternamn": "Andersson",
+    "personnummer": 197911182356,
+    "anstalld": true,
+    "harHund": false,
+    "uppgiftId": 1003,
+    "uppgiftsTyp": "Ring arbetsgivare",
+    "uppgiftsStatus": "Pågående",
+    "arbetsgivare": {
+      "id": 1,
+      "namn": "AB Företag",
+      "adress": "Storgatan 1, 12345 Stad",
+      "kontaktperson": "Anna Andersson",
+      "telefon": "012-3456789",
+      "orgNummer": "556677-8899"
+    }
+  },
+  {
+    "fornamn": "Erik",
+    "efternamn": "Karlsson",
+    "personnummer": 199512284512,
+    "anstalld": false,
+    "harHund": true,
+    "uppgiftId": 1004,
+    "uppgiftsTyp": "Kontrollera folkbokföring",
+    "uppgiftsStatus": "Redo",
+    "adress": {
+      "gata": "Skogsvägen",
+      "nummer": "8",
+      "postnummer": "543 21",
+      "lägenhetsnummer": "1303",
+      "stad": "Göteborg",
+      "folkbokförd": true
+    }
+  },
+  {
+    "fornamn": "Sara",
+    "efternamn": "Nilsson",
+    "personnummer": 198802092145,
+    "anstalld": true,
+    "harHund": false,
+    "uppgiftId": 1005,
+    "uppgiftsTyp": "Ring arbetsgivare",
+    "uppgiftsStatus": "Redo",
+    "arbetsgivare": {
+      "id": 4,
+      "namn": "Bygg & Co",
+      "adress": "Byggvägen 3, 13579 Byggstad",
+      "kontaktperson": "David Dahl",
+      "telefon": "022-3344556"
+    }
+  },
+  {
+    "fornamn": "Patrik",
+    "efternamn": "Johansson",
+    "personnummer": 199610153321,
+    "anstalld": false,
+    "harHund": true,
+    "uppgiftId": 1006,
+    "uppgiftsTyp": "Kontrollera folkbokföring",
+    "uppgiftsStatus": "Pågående",
+    "adress": {
+      "gata": "",
+      "nummer": "",
+      "postnummer": "",
+      "lägenhetsnummer": "",
+      "stad": "",
+      "folkbokförd": false
+    }
+  },
+  {
+    "fornamn": "Lina",
+    "efternamn": "Bergström",
+    "personnummer": 198404042278,
+    "anstalld": true,
+    "harHund": true,
+    "uppgiftId": 1007,
+    "uppgiftsTyp": "Ring arbetsgivare",
+    "uppgiftsStatus": "Pågående",
+    "arbetsgivare": {
+      "id": 2,
+      "namn": "XYZ Industri",
+      "adress": "Industrivägen 5, 54321 Industriort",
+      "kontaktperson": "Bertil Bengtsson",
+      "telefon": "098-7654321"
+    }
+  }
+]
